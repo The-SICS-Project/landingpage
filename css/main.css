@@ -2618,7 +2618,8 @@ Content Area-1 L-11-2
   position: absolute;
   top: 0;
   left: 0;
-  background-color: #258aff !important;
+  background-color: #ff0000 !important;
+    opacity: 0.6;
   transform: rotate(-4deg) !important;
   border-radius: 5px;
   z-index: -1;
