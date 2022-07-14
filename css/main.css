@@ -577,8 +577,8 @@ div#loading img {
 
 @media (min-width: 992px) {
   .navbar {
-    padding-top: 0;
-    padding-bottom: 0;
+    padding-top: 10;
+    padding-bottom: 10;
   }
 }
 
