@@ -441,6 +441,7 @@ div#loading img {
   .top-contact-menu-wraper .brand-logo {
     min-width: 50%;
     order: 1;
+    padding-top: 10px;
     padding-bottom: 30px;
   }
   .top-contact-menu-wraper .header-btn {
